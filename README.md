@@ -1,4 +1,5 @@
-User-Friendly ATM Application in Python
+USER-FRIENDLY ATM APPLICATION IN PYTHON
+
 This project describes about Automated Teller Machine. Here i used basic concepts like functions, conditional statements and Looping statements, dictionary concepts in Python.
 
 The main functionality of this project:
